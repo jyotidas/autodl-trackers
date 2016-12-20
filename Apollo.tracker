@@ -52,7 +52,7 @@
 				<regex value="^TORRENT: (.*)-(.*).*\s*https?\:\/\/([^\/]+\/).*[&amp;\?]id=(\d+)"/>
 				<vars>
 					<var name="torrentName"/>
-                    <var name="nukkij"/>
+					<var name="nukkij"/>
 					<var name="$baseUrl"/>
 					<var name="$torrentId"/>
 				</vars>
